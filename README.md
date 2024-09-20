@@ -7,6 +7,9 @@ This project is a React application built with TypeScript and Vite. It features 
 2. Filtering: Filter users.
 3. Sorting: Sort users by age.
 
+### Project Link 
+https://dynamic-table-jgr7.onrender.com
+
 ## Demo Video
 [DynamicTableDemoVideo.webm](https://github.com/user-attachments/assets/2d3f3848-36fb-4311-b480-e3753c50c70c)
 
