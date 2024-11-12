@@ -128,7 +128,7 @@ const DynamicTable = () => {
 
     return (
         <div className='h-screen w-full'>
-            <div className='text-3xl text-white font-semibold m-4'>Table</div>
+            <div className='text-3xl text-white font-semibold m-4'>Table Naresh</div>
             
             {/* Shadcn Select for Filtering */}
             <div className="m-4 text-lg flex">
